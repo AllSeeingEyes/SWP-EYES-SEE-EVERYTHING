@@ -3,3 +3,8 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flexbox;
 }
+
+button{
+    background-color: fuchsia;
+    font-size: large;
+}
